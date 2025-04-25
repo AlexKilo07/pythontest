@@ -6,7 +6,7 @@
 cant=int(input("Ingrese el numero de notas"))
 for i in range(cant):
     print("Ingrese la nota"), i+1
-    nota=float(input("Ingrese la nota", i))
+    nota=float(input("Ingrese la nota"), i)
     suma=suma+nota
 
 prom=suma/cant    
