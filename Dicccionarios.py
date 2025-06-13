@@ -23,3 +23,10 @@ print(frutas)
 frutas["pera"]=1200
 
 print(frutas)
+
+'''Tarea 
+1._Ingresar fruta y precio
+2._Actualizar precio
+3._Borrar fruta y precio
+4._Mostrar todas las frutas y precios
+5._Salir'''
